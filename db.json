@@ -41,6 +41,36 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Oogity",
+      "image": "oogity",
+      "price": 20,
+      "id": 8
+    },
+    {
+      "name": "Test",
+      "image": "Render",
+      "price": 20,
+      "id": 9
+    },
+    {
+      "name": "What",
+      "image": "Happen",
+      "price": 20,
+      "id": 10
+    },
+    {
+      "name": "Wait",
+      "image": "What",
+      "price": 20,
+      "id": 11
+    },
+    {
+      "name": "Let's",
+      "image": "see",
+      "price": 20,
+      "id": 12
     }
   ]
 }
